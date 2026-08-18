@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>manual</MASTER_PAD_EDITOR>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Scry</Company_Name>
+    <Company_WebSite_URL>https://scryuser-main.github.io</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Scry</Author_First_Name>
+      <Author_Last_Name>Team</Author_Last_Name>
+      <Author_Email>manehmaneu@gmail.com</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>manehmaneu@gmail.com</Sales_Email>
+      <Support_Email>manehmaneu@gmail.com</Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Scry</Program_Name>
+    <Program_Version>1.0.14</Program_Version>
+    <Program_Release_Month>08</Program_Release_Month>
+    <Program_Release_Day>17</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>7.99</Program_Cost_Dollars>
+    <Program_Type>Commercial</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win10x64,Win11</Program_OS_Support>
+    <Program_Language>English,Portuguese,Spanish</Program_Language>
+    <File_Info>
+      <File_Size_Bytes>9247926</File_Size_Bytes>
+      <File_Size_K>9031</File_Size_K>
+      <File_Size_MB>8.82</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>whatsapp backup, view once saver, save view once photos, deleted messages backup, whatsapp archive, status saver, whatsapp media backup, windows whatsapp tool</Keywords>
+      <Char_Desc_45>Backs up your own WhatsApp before it vanishes</Char_Desc_45>
+      <Char_Desc_80>Archive view-once, deleted and edited WhatsApp messages to your own Windows PC.</Char_Desc_80>
+      <Char_Desc_250>Scry quietly archives your own WhatsApp to your PC: view-once photos and videos, deleted and edited messages, status updates and media. Everything is stored 100% locally - no cloud, no account, no subscription. One-time purchase.</Char_Desc_250>
+      <Char_Desc_450>Scry is a Windows app that quietly archives everything WhatsApp throws away on your own account: view-once photos and videos (saved before you even open them), messages deleted for everyone, edit history, status updates and media. It links to your WhatsApp exactly like WhatsApp Web and runs in the background. Everything is stored 100% locally on your PC - no cloud, no account, no telemetry. One-time purchase, no subscription.</Char_Desc_450>
+      <Char_Desc_2000>Scry is a personal backup tool for your own WhatsApp account, for Windows 10 and 11. It quietly archives to your PC everything WhatsApp throws away before you can keep it.
+
+What it captures: view-once photos and videos are saved automatically the instant they arrive, before you even open them, in full quality. Messages deleted for everyone are kept with the original text and media. Edited messages keep their full version history so you can see what changed. Status updates and stories can be archived per contact. Regular photos, videos, audio and documents are preserved before a chat is ever cleared.
+
+Scry links to your own WhatsApp account exactly like WhatsApp Web does, using the official linked-devices feature: type your number, get a code, enter it in WhatsApp, done. It then runs in the background in the system tray. If your PC was off when something arrived, Scry syncs and saves it the next time it opens, the same way WhatsApp Web catches up on messages.
+
+Privacy by design: everything is stored 100% locally on your PC in a plain folder you own. There is no cloud, no account, no telemetry and no subscription. After a one-time license activation the app never contacts the developer's servers again; the only place it ever connects to is WhatsApp itself. Remove it any time from WhatsApp's Linked Devices screen. Ghost mode (on by default) sends no read receipts and never shows you online.
+
+Scry is independent software and is not affiliated with, endorsed by, or connected to WhatsApp or Meta. It is intended for the personal backup of media and messages received on the user's own account.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://scryuser-main.github.io</Application_Info_URL>
+      <Application_Order_URL>https://maneuver03.gumroad.com/l/fkdrii</Application_Order_URL>
+      <Application_Icon_URL>https://scryuser-main.github.io/icon.png</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/scryuser-main/scry-releases/releases/download/v1.0.14/Scry_1.0.14_x64-setup.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Scry may be listed on software download sites and directories free of charge, provided the listing links to the official website or the official installer download. The installer may be mirrored unmodified. It may not be sold, bundled with other software, or repackaged with any third-party installer.</Distribution_Permissions>
+    <EULA>By activating, installing or using Scry you agree to the Terms of Use and Privacy policy available at https://scryuser-main.github.io/terms.html. Scry is independent software, not affiliated with WhatsApp Inc. or Meta Platforms Inc., provided as-is and intended for personal backup of the user's own account.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
