@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://scryuser-main.github.io/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/br/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/salvar-visualizacao-unica-whatsapp.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/recuperar-mensagens-apagadas-whatsapp.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/backup-whatsapp-no-pc.html</loc>
+    <lastmod>2026-08-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/ver-status-sem-a-pessoa-saber.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/dispositivos-conectados-whatsapp-web.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/apps-gratis-salvar-status-riscos.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/mensagem-editada-whatsapp-ver-original.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/terms.html</loc>
+    <lastmod>2026-08-28</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>

@@ -6,6 +6,9 @@
 <title>Scry — never lose a WhatsApp message again | view-once, deleted & status backup for Windows</title>
 <meta name="description" content="Scry quietly archives to your PC everything WhatsApp deletes on you — view-once photos, deleted & edited messages, status and media. One-time $7.99, no subscription, 100% on your PC." />
 <link rel="canonical" href="https://scryuser-main.github.io/" />
+<link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/" />
+<link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/" />
+<link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/" />
 <link rel="icon" type="image/png" sizes="32x32" href="favicon.png" />
 <link rel="apple-touch-icon" href="icon.png" />
 <meta property="og:type" content="website" />
@@ -84,6 +87,8 @@
       <a href="#trust" class="hidden sm:inline text-sm px-3 py-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-300">Is it safe?</a>
       <a href="#reviews" class="hidden sm:inline text-sm px-3 py-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-300">Reviews</a>
       <a href="#faq" class="hidden sm:inline text-sm px-3 py-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-300">FAQ</a>
+      <a href="/blog/" class="hidden sm:inline text-sm px-3 py-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-300">Blog</a>
+      <a href="/br/" hreflang="pt-br" class="hidden sm:inline text-sm px-3 py-2 rounded-lg text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-300" title="Português">PT-BR</a>
       <a href="https://maneuver03.gumroad.com/l/fkdrii" target="_blank" rel="noopener" class="hidden sm:inline-flex items-center gap-1.5 text-sm font-semibold px-4 py-2 rounded-lg bg-brand-600 text-white hover:bg-brand-500 shadow-lg shadow-brand-600/25">
         Get it <span class="opacity-80">$7.99</span>
       </a>
@@ -489,7 +494,6 @@
     els.forEach(function (el) { io.observe(el); });
   })();
 
-  // ===== Reviews =====
   (function () {
     var API = 'https://scry-reviews.scry-license.workers.dev';
     var grid = document.getElementById('reviews-grid');
@@ -582,5 +586,6 @@
     });
   })();
 </script>
+<script defer src="/track.js"></script>
 </body>
 </html>
