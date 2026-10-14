@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://scryuser-main.github.io/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://scryuser-main.github.io/br/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://scryuser-main.github.io/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -182,8 +182,28 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://scryuser-main.github.io/blog/estatisticas-conversa-whatsapp.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/buscar-mensagem-antiga-whatsapp.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/trazer-historico-antigo-whatsapp-pc.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/backup-local-whatsapp-exportar-importar.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://scryuser-main.github.io/terms.html</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.2</priority>
   </url>
 </urlset>
