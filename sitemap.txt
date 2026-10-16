@@ -1,5 +1,6 @@
 https://scryuser-main.github.io/
 https://scryuser-main.github.io/br/
+https://scryuser-main.github.io/es/
 https://scryuser-main.github.io/blog/
 https://scryuser-main.github.io/blog/salvar-visualizacao-unica-whatsapp.html
 https://scryuser-main.github.io/blog/recuperar-mensagens-apagadas-whatsapp.html
@@ -37,4 +38,7 @@ https://scryuser-main.github.io/blog/estatisticas-conversa-whatsapp.html
 https://scryuser-main.github.io/blog/buscar-mensagem-antiga-whatsapp.html
 https://scryuser-main.github.io/blog/trazer-historico-antigo-whatsapp-pc.html
 https://scryuser-main.github.io/blog/backup-local-whatsapp-exportar-importar.html
+https://scryuser-main.github.io/blog/guardar-fotos-una-sola-vez-whatsapp-es.html
+https://scryuser-main.github.io/blog/ver-una-sola-vez-whatsapp-web-pc-es.html
+https://scryuser-main.github.io/blog/apps-gratis-guardar-estados-riesgos-es.html
 https://scryuser-main.github.io/terms.html

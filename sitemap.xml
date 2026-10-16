@@ -6,6 +6,7 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://scryuser-main.github.io/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
   </url>
   <url>
@@ -14,6 +15,16 @@
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://scryuser-main.github.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/es/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://scryuser-main.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="pt-br" href="https://scryuser-main.github.io/br/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://scryuser-main.github.io/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
   </url>
   <url>
@@ -199,6 +210,21 @@
   <url>
     <loc>https://scryuser-main.github.io/blog/backup-local-whatsapp-exportar-importar.html</loc>
     <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/guardar-fotos-una-sola-vez-whatsapp-es.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/ver-una-sola-vez-whatsapp-web-pc-es.html</loc>
+    <lastmod>2026-10-16</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://scryuser-main.github.io/blog/apps-gratis-guardar-estados-riesgos-es.html</loc>
+    <lastmod>2026-10-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
