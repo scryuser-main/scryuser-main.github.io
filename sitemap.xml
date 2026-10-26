@@ -28,6 +28,11 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://scryuser-main.github.io/"/>
   </url>
   <url>
+    <loc>https://scryuser-main.github.io/baixar/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://scryuser-main.github.io/blog/</loc>
     <lastmod>2026-10-26</lastmod>
     <priority>0.7</priority>
